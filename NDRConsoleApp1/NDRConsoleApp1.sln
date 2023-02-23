@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDRConsoleApp1", "NDRConsoleApp1\NDRConsoleApp1.csproj", "{6D149DE8-2924-4F2F-9A46-5B4534A8D11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDRClassLibrary1", "NDRClassLibrary1\NDRClassLibrary1.csproj", "{0EF549D4-33B0-4375-9FAA-26079C995156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D149DE8-2924-4F2F-9A46-5B4534A8D11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D149DE8-2924-4F2F-9A46-5B4534A8D11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D149DE8-2924-4F2F-9A46-5B4534A8D11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D149DE8-2924-4F2F-9A46-5B4534A8D11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF549D4-33B0-4375-9FAA-26079C995156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF549D4-33B0-4375-9FAA-26079C995156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF549D4-33B0-4375-9FAA-26079C995156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF549D4-33B0-4375-9FAA-26079C995156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E794E49-2FD5-4F4B-A044-DA59665F1C35}
+	EndGlobalSection
+EndGlobal
